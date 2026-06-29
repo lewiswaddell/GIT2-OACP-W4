@@ -1,0 +1,75 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: "Lee Lewis-Waddell"
+date: June 28, 2026
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Introduction
+
+------------------------------------------------------------------------
+
+Retail has changed dramatically over the past decade, as the line between online and in-store shopping continues to disappear. Today's consumers expect to browse a product on their phone, check inventory online, and pick it up in-store within the hour. This shift, known as **omnichannel retailing**, has created career opportunities that go far beyond traditional store management, requiring professionals who understand digital marketing, e-commerce platforms, and customer data. For this assignment, I researched three job postings centered on digital marketing and e-commerce: an eCommerce & Digital Marketing Manager role at The People Brand, a Senior Digital Marketing Specialist role at Virtus Investment Partners, and a Digital Marketing Manager role at Rebel Convenience Stores, which span apparel retail, financial services, and convenience retail.
+
+# Summary of Job Postings
+
+## [**eCommerce & Digital Marketing Manager**](https://www.theladders.com/job/ecommerce-digital-marketing-manager-the-people-brand-carson-ca_87341820?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+**The People Brand** is hiring an **eCommerce & Digital Marketing Manager** in Carson, CA, paying \$120,000–\$140,000 and requiring 4+ years of ecommerce experience in apparel or multi-brand direct-to-consumer environments. Main responsibilities include Shopify site merchandising, managing promotional calendars, executing paid media across Meta and Google, running email/SMS campaigns, and maintaining performance dashboards. Required skills include strong commercial judgment, attention to detail, and the ability to translate data into action; required tools include Shopify, Google Analytics 4, and Klaviyo. No specific degree is listed, but the experience requirement implies a bachelor's degree is expected. Keywords that stood out included *conversion rate*, *merchandising*, *cross-functional*, and *Shopify*.
+
+## [**Senior Digital Marketing Specialist**](https://www.theladders.com/job/senior-digital-marketing-specialist-virtus-investment-partners-inc-los-angeles-ca_86163881?source=similar)
+
+A more senior role appears at **Virtus Investment Partners**, which is hiring a **Senior Digital Marketing Specialist** in Los Angeles, CA for \$100,000–\$130,000. The posting requires a bachelor's degree plus 7–10+ years of experience and centers on running integrated digital campaigns, managing SEO strategy with an outside agency, leading paid search/social/retargeting, and ensuring all content meets SEC and FINRA compliance standards. Required tools include Google Analytics, CRM platforms, and Salesforce Marketing Cloud; required skills include advanced analytical ability and strong stakeholder communication. Important keywords included *compliance*, *ROI*, *thought leadership*, and *marketing automation*.
+
+## [**Digital Marketing Manager**](https://www.linkedin.com/jobs/view/digital-marketing-manager-at-rebel-convenience-stores-4416918123/)
+
+On the more accessible end, **Rebel Convenience Stores** is hiring a **Digital Marketing Manager** in Upland, CA for \$80,000–\$100,000, with no specific degree stated, though prior experience in retail, e-commerce, or loyalty marketing is preferred. The role involves leading multi-channel campaigns (email, social, paid, SEO/SEM), managing the marketing calendar, and optimizing CRM and loyalty automation workflows. Required skills include intermediate Excel, project management, and analytical thinking; required tools include Google Ads, Facebook Ads Manager, and Google Analytics. Keywords that repeated throughout included *loyalty*, *KPIs*, *retention*, and *CRM*.
+
+# Skills & Knowledge Required
+
+Looking across all three postings, clear patterns emerge. Every role requires hands-on experience with Google Analytics, and all three involve managing paid digital advertising through platforms like Meta or Google Ads.
+
+CRM and marketing automation tools appear consistently too, including Klaviyo, Salesforce Marketing Cloud, and loyalty platforms, showing employers expect candidates to manage customer relationships through software, not instinct.
+
+Calendar and campaign coordination is also shared, since each posting involves owning a marketing calendar and aligning teams around it.
+
+Technical fluency in tools like Shopify, Google Ads, and GA4 matters, but soft skills matter just as much, since all three mention communication and translating data for non-technical stakeholders. Virtus adds one unique requirement of regulatory awareness, since financial marketing must satisfy SEC and FINRA standards.
+
+# Connection to This Course and the MSDM Program
+
+This course directly builds many of the skills these postings require. Shopify store development and product catalog work mirror what The People Brand's posting demands, since that role centers on Shopify merchandising. Work with Google Analytics 4, Google Merchant Center, and Google Shopping Ads connects to the analytics and paid advertising expectations across all three postings, while customer journey analysis speaks to the customer focused nature of these roles. The group consulting project for CPP Farm Store is especially relevant, since it offers hands on experience with retail strategy and merchandising decisions similar to entry level e-commerce work.
+
+Other MSDM courses extend this preparation further. Digital marketing and search engine marketing courses build the paid media and SEO skills emphasized in the Virtus and Rebel postings, while marketing analytics strengthens the ability to translate performance data into decisions, a skill every posting mentions. Consumer behavior helps build the customer insight needed for loyalty work like Rebel's CRM programs, and business communication supports the stakeholder coordination all three roles require.
+
+# Personal Career Reflection
+
+Among the three roles, the **Digital Marketing Manager position at Rebel Convenience Stores** interests me most, since it blends retail strategy with hands on digital execution without requiring years of specialized industry experience first. One of my current strengths is social media and content creation, which connects directly to the campaign and content responsibilities in the posting.
+
+However, I still need to build stronger skills in paid advertising platforms, CRM and loyalty automation tools, and analytics reporting, since these areas appeared consistently across all three postings but are less developed in my current experience.
+
+The CPP Farm Store consulting project is one piece of evidence I'll be able to make use of once the semester concludes, since it involves real retail strategy and merchandising decisions.
+
+My next step this semester is building a portfolio project, such as the mock Shopify store or sample digital campaign, to add to my resume and LinkedIn. This would give me something concrete to discuss in interviews, letting me speak confidently about platforms like Shopify, Google Analytics, and paid media rather than only discussing these tools in theory.
+
+# References
+
+LinkedIn (2026), "Digital Marketing Manager at Rebel Convenience Stores," (accessed June 28, 2026), <https://www.linkedin.com/jobs/view/digital-marketing-manager-at-rebel-convenience-stores-4416918123/>
+
+The Ladders (2026), "eCommerce & Digital Marketing Manager - The People Brand - Carson, CA," (accessed June 28, 2026), <https://www.theladders.com/job/ecommerce-digital-marketing-manager-the-people-brand-carson-ca_87341820>
+
+The Ladders (2026), "Senior Digital Marketing Specialist - Virtus Investment Partners, Inc. - Los Angeles, CA," (accessed June 28, 2026), <https://www.theladders.com/job/senior-digital-marketing-specialist-virtus-investment-partners-inc-los-angeles-ca_86163881>
+
+# Appendix
+
+## Github Repo
+
+## Github Pages
