@@ -70,6 +70,6 @@ The Ladders (2026), "Senior Digital Marketing Specialist - Virtus Investment Par
 
 # Appendix
 
-## Github Repo
+## [Github Repo](https://github.com/lewiswaddell/GIT2-OACP-W4.git)
 
-## Github Pages
+## [Github Pages](https://lewiswaddell.github.io/GIT2-OACP-W4/)
